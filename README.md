@@ -32,7 +32,8 @@ Este proyecto es una API REST desarrollada en Java con Spring Boot que permite g
       "jugadorId": 1,
       "name": "Nombre del Jugador",
       "edad": 25
-  }```
+  }
+  ```
 
 - **Crear nuevo equipo**  
   `POST /api/v1/equipo/insert`  
@@ -41,5 +42,6 @@ Este proyecto es una API REST desarrollada en Java con Spring Boot que permite g
   {
       "equipoId": 1,
       "name": "Equipo Ar"
-  }```
+  }
+  ```
   
